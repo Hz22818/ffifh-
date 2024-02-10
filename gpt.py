@@ -38,11 +38,11 @@ from phonenumbers.phonenumberutil import region_code_for_country_code
 
 #############################ОСНОВНОЕ#############################
 
-api_id = 11111111 #my.telegram.com
-api_hash = "11111111111111111111111111111111" #my.telegram.com
-bot_token = '1111111111:11111111111111111111111111111111111' #bot_father
-admin = 1111111111 #@FIND_MY_ID_BOT
-logs = -1111111111111 #Айди канала с логами
+api_id = 22426911 #my.telegram.com
+api_hash = "03adcecc608d03d11e648c0611e7481e" #my.telegram.com
+bot_token = '6922660921:AAGJbJxqAQYXiICY32iQSHbfvE4bEmYeiuk' #bot_father
+admin = 5454397757 #@FIND_MY_ID_BOT
+logs = -1002080155014 #Айди канала с логами
 
 ############################ПЕРЕМЕННЫЕ############################
 botdelete = False #Удалить переписку с ботом после авторизации
